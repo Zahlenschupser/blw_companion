@@ -1,6 +1,6 @@
 # Privacy Policy for BLW Companion
 
-**Status:** September 12, 2025
+**Status:** September 24, 2025
 
 Thank you for using the "BLW Companion" app.
 
@@ -47,9 +47,24 @@ We do not sell your personal data. We may share or allow access to information a
 *   **Advertising Partners (Google AdMob):** We use Google AdMob, an advertising service provided by Google LLC (or affiliated companies), to display advertising in our App. Google AdMob may collect and process information to display personalized or non-personalized advertising. We recommend that you read Google's privacy policy: [https://policies.google.com/privacy](https://policies.google.com/privacy).
 *   **Legal Requirements:** We may disclose your information if we are legally required to do so or if we believe in good faith that such action is necessary.
 
-## 5. Data Storage and Retention
+## 5. Data Storage, Retention, and Deletion
 
-We do not store personal data directly on our servers, as most data is processed by third parties like Google. Information you send to us by email will be retained for as long as necessary to process your request.
+### Data Storage and Retention
+
+The "BLW Companion" app is designed to store all user-generated data, such as milk stash entries and feeding history (including timestamps, amounts, storage locations, and notes), **locally on your device only**. We do not collect or store this specific application usage data on any external servers. This data remains on your device for as long as you use the app or until you choose to delete it.
+
+Information automatically collected by third-party SDKs (like Google AdMob) is processed and stored by those third parties according to their respective privacy policies. Please refer to Section 4 ("Sharing Your Information with Third Parties") for more details.
+
+Information you send to us by email will be retained for as long as necessary to process your request and for our records.
+
+### Data Deletion
+
+You have control over the data stored locally by the "BLW Companion" app on your device. You can delete your data in the following ways:
+
+*   **In-App Deletion of Individual Entries:** You can delete individual milk stash entries or feeding history entries directly within the app. Each entry typically has a "delete" option (e.g., a trash can icon or a menu item) that allows you to remove it. Deleting an entry removes all associated information for that specific entry (timestamp, amount, location, notes) from your device.
+*   **App Uninstallation:** Uninstalling the "BLW Companion" app from your device will permanently delete all locally stored application data, including all milk stash and feeding history records, from that device. This is a standard function of the Android operating system.
+
+If you have any questions specifically about data deletion that are not covered by the in-app functionalities or the uninstallation process, please contact us at humanoid0815@gmail.com.
 
 ## 6. Your Data Privacy Rights
 
